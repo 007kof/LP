@@ -239,7 +239,7 @@ class Node {
         this.left = null;
     }
     
-    eraseLeft() {
+    eraseRight() {
         this.right = null;
     }
 }
