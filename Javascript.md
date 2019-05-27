@@ -118,7 +118,7 @@ let b = "hello";
 
 writeln(a+b);	// Escriurà "hello1"
 ```
-Com que JavaScript és un llenguatge interpretat, no té gaire sentit parlar si és de type safe, ja que no hi ha una fase de compilació prèvia.
+Com que JavaScript és un llenguatge interpretat, no té gaire sentit parlar si és de type safe, ja que no hi ha una fase de compilació prèvia. En el cas de la compilació _just-in-time_, JavaScript aplicarà operacions necessàries per evitar errors de tipus, per tant sí que és type safe.
 
 La comprovació de tipus és **dinàmica**, és a dir, en temps d'execució, i té 6 tipus primitius que son els següents:
 ```javascript
