@@ -1,0 +1,7 @@
+JavaScript es va crear l'any 1995 pel programador Brendan Eich de la companyia NCC, l'objectiu era crear un nou llenguatge per desenvolupar pagines web i evitar colapsar el flux d'informacio per les xarxes.
+JavaScript es un llenguatge multiparadigma, es a dir, que combina diferents paradigmes, que en aquesta cas es, l'imperatiu, el funcional i orientat a objectes, aqui podem veure dos exemples de codi imperatiu i funcional.
+JavaScript es un llenguatge interpretat, tambe existeix la compilacio just-in-time, que a mesura que el codi es va executant, es compilara un tros. Els principals interpretes de JavaScript son els navegadors, aqui teniu un interprete que es el de google chrome.
+JavaScript es un llenguatge de tipat feble, segur i dinamic. Aqui podem veure un clar exemple del tipat feble i dinamic, veiem que podem assignar una mateixa variable de tipus diferents.
+Les principals aplicacions de JavaScript son pel desenvolupament de pagines web, juntament amb CSS i HTML, aqui teniu un exemple de combinar JAvaScript amb HTML.
+Tot i que Java i JavaScript comparteixen el mateix nom, son llenguatges diferents, de fet una de les poques semblances es la sintaxis, pero la sintaxis va esta influenciada per C. Els altres llenguatges que van influir JavaScript son Python, Perl, Scheme i Self.
+Aqui us mostrare algun exemple de codi, a l'esquerra es un quicksort implementat amb JavaScript i a la dreta dues maneres de trobar un numero primer, de manera iterativa i recursiva.
